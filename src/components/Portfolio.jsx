@@ -1,8 +1,8 @@
 import React from 'react';
-import project1 from "../assets/project1.avif"
-import project2 from "../assets/project2.avif"
-import project3 from "../assets/project3.avif"
-import project4 from "../assets/project4.avif"
+import project1 from "/project1.avif"
+import project2 from "/project2.avif"
+import project3 from "/project3.avif"
+import project4 from "/project4.avif"
 
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
