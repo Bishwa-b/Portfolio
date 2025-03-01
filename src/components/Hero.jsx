@@ -125,14 +125,8 @@ const Hero = () => {
             <DiJavascript1 className="text-yellow-500 mx-2" />
             <DiReact className="text-blue-500 mx-2" />
             <DiNodejsSmall className="text-green-500 mx-2" />
-            <DiPostgresql className="text-blue-500 mx-2"/>
             <DiMongodb className="text-green-500 mx-2"/>
-            <SiTypescript className="text-blue-400 mx-2" />
-            <SiTailwindcss className="text-teal-400 mx-2" />
-            <SiNextdotjs className="text-white mx-2" />
-            <SiExpress className="text-gray-400 mx-2" />
-            <SiGit className="text-red-500 mx-2" />
-            <SiDocker className="text-blue-600 mx-2" />
+            
                         
 
         </motion.div>
